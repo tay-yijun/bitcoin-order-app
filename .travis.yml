@@ -28,3 +28,4 @@ deploy:
   edge: true
   on:
     branch: development
+
